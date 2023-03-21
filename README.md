@@ -24,4 +24,4 @@ License
 This program is licensed under the MIT License. Please see the LICENSE file for more information.
 
 Acknowledgments
-This program was created by [Your Name Here] as a personal project. It uses the OpenCV library to access the computer's camera and record video footage.
+This program was created by Alexis Valentino as a personal project. It uses the OpenCV library to access the computer's camera and record video footage.
